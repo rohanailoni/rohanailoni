@@ -1,16 +1,57 @@
-### Hi there 👋
 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: [Twitter](https://twitter.com/KhuyenTran16)
+
+### Hi there. I'm rohan 👋
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanailoni&style=flat-square&color=brightgreen" alt=""/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+- 🔭 I’m currently working on Chat message queue using Apache kafka
+- 🌱 I’m currently learning competetive programming especially B+ trees
+- 👯 I’m looking to collaborate on Local File Sharing using webrtc
+- 🤔 I’m looking for help with Apache kafka and Hapdoop Integeration
+- ⚡ Fun fact: I have been Trying to learn math and Apply Neat algorithm from months
+
+- :zap: I love math, programming, data science, and books
 <!--
-**rohanailoni/rohanailoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m very keen to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476) and [daily data science tips](https://mathdatasimplified.com/).
 -->
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/rohan-ailoni-119319121/)
+  - :bulb: [Medium](https://medium.com/@rohanailoni)
+  
+
+  
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohanailoni&theme=dark&background=000000)](https://git.io/streak-stats)
+[![rohanailoni github stats](https://github-readme-stats.vercel.app/api?username=rohanailoni&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="header" align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanailoni)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
+### Check out my latest articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rohanailoni
+/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rohanailoni
+/0" alt="Recent Article 0"> 
+
+    
+### Packages I created
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=GIT-SDK-TOOLING)](https://github.com/rohanailoni/GIT-SDK-TOOLING) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=Local-FIle-Sharing-using-webrtc)](https://github.com/rohanailoni/Local-FIle-Sharing-using-webrtc) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=sudoku-solver-opencv)](https://github.com/rohanailoni/sudoku-solver-opencv) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=tic-tac-toe)](https://github.com/rohanailoni/tic-tac-toe) 
+
+
+
+
