@@ -34,7 +34,7 @@
 [![rohanailoni github stats](https://github-readme-stats.vercel.app/api?username=rohanailoni&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
-  
+  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=rohanailoni&theme=redical">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanailoni)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
