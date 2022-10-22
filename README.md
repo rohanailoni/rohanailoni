@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning competetive programming especially B+ trees
 - 👯 I’m looking to collaborate on Local File Sharing using webrtc
 - 🤔 I’m looking for help with Apache kafka and Hapdoop Integeration
-- ⚡ Fun fact: I have been Trying to learn math and Apply Neat algorithm from months and I use Arch linux BTW	:joy:
+- ⚡ Fun fact: I have been Trying to learn math and Apply Neat algorithm from months and I use Arch linux BTW with i3wm	:joy:
 
 - :zap: I love math, programming, data science, and books
 <!--
