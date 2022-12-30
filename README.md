@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on Chat message queue using Apache kafka
+- 🔭 I’m currently learning golang
 - 🌱 I’m currently learning competetive programming especially B+ trees
 - 👯 I’m looking to collaborate on Local File Sharing using webrtc
 - 🤔 I’m looking for help with Apache kafka and Hapdoop Integeration
