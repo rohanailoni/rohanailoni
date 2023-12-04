@@ -9,7 +9,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+### This is my intro from 1 year too lazy to add what i am doing now :(
 - 🔭 I’m currently learning golang
 - 🌱 I’m currently learning competetive programming especially B+ trees
 - 👯 I’m looking to collaborate on Local File Sharing using webrtc
@@ -49,9 +49,10 @@
     
 ### Packages I created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=GIT-SDK-TOOLING)](https://github.com/rohanailoni/GIT-SDK-TOOLING) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=Local-FIle-Sharing-using-webrtc)](https://github.com/rohanailoni/Local-FIle-Sharing-using-webrtc) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=sudoku-solver-opencv)](https://github.com/rohanailoni/sudoku-solver-opencv) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=tic-tac-toe)](https://github.com/rohanailoni/tic-tac-toe) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=Local-FIle-Sharing-using-webrtc)](https://github.com/rohanailoni/Log-Ingressor) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=Log-Ingressor)](https://github.com/rohanailoni/distributed_cache_rust) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=codeforces)](https://github.com/rohanailoni/codeforces) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanailoni&repo=Reliable_Queue)](https://github.com/rohanailoni/Reliable_Queue) 
 
 
 
