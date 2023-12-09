@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## This is my intro from 1 year too lazy to add what i am doing now :(
+## This is my intro from 2 year old.too lazy to add what i am doing now :(
 
 - 🔭 I’m currently learning golang
 - 🌱 I’m currently learning competetive programming especially B+ trees
